@@ -20,8 +20,9 @@ Console.WriteLine($"{f + c}");
 
 
 // TODO: Create an instance of a struct (which is a value type)
-
-
+s s1;
+s1.a = 5;
+s1.b = false;
 // Perform an operation on a struct
 void StructOp(s theStruct) {
     // Modify the struct properties inside the function
@@ -37,7 +38,7 @@ void StructOp(s theStruct) {
 
 // TODO: Create an object instance of a class (which is a reference type)
 
-
+MyClass c1 = new MyClass { a = 5, b = false };
 // Perform an operation on the class
 void ClassOp(MyClass theClass) {
     // Modify some of the properties of the class inside the function
