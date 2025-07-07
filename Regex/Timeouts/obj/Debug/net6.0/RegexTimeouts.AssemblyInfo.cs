@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegexTimeouts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbebc92a91925e1aa5ce6970a08efb07ae9f57b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eae8afdc44395830f92a21661026ff36f82378c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegexTimeouts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegexTimeouts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
