@@ -9,7 +9,7 @@ const string thestr = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
 Stopwatch sw;
 
 // TODO: Use a Timeout value when executing RegEx to guard against bad input
-
+sw = Stopwatch.StartNew();
 
 // Run the expression and output the result
 try {
