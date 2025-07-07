@@ -30,6 +30,7 @@ Console.WriteLine(now);
 // TODO: The TimeSpan class represents a duration of time
  DateTime AprilFools = new DateTime(now.Year, 4, 1);
  DateTime NewYears = new DateTime(now.Year, 1, 1);
+ 
 TimeSpan interval = AprilFools - NewYears;
 Console.WriteLine(interval);
 // TODO: Dates can be compared using regular operators
