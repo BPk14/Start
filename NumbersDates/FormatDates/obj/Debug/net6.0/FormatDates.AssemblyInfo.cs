@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormatDates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbebc92a91925e1aa5ce6970a08efb07ae9f57b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51eeffabade3b502f1e5b277c54de03cfcaba768")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormatDates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormatDates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
