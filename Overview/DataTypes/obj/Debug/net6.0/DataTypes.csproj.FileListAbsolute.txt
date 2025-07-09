@@ -7,9 +7,9 @@ C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\DataType
 C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
 C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
 C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.sourcelink.json
 C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.dll
 C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
 C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.pdb
 C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
 C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
-C:\Users\Makike Kelly\Desktop\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.sourcelink.json
